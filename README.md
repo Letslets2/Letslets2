@@ -34,7 +34,7 @@ Estudante de **Ciência da Computação** no Rio de Janeiro e **estagiária de f
 |---|---|---|
 | [🌱 App Vegano](https://github.com/Letslets2/app-vegano) | App mobile para encontrar restaurantes veganos | GPS e mapa, carrinho com valores em centavos, testes com Jest, Expo SDK 58 |
 | [🎬 Cinema SQL](https://github.com/Letslets2/cinema-sql) | Banco de dados relacional de um cinema | Trigger, procedure com transação, views, restrições e diagrama ER |
-| 🍺 Gestão financeira de bares *(em construção)* | API para controlar contas de dois bares reais | Node.js, Express, SQLite, Jest e lançamentos por texto livre com LLM |
+| 💰 Caixa em Dia *(em construção)* | Controle financeiro do comércio da minha família: contas a pagar, caixa do dia e lucro do mês | API em Node.js + Express, SQLite, testes com Jest, tela mobile-first e lançamentos por texto livre com IA local |
 
 ## 📫 Contato
 
